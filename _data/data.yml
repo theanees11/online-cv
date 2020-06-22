@@ -77,25 +77,19 @@ experiences:
       time: February 2020- March 2020
       company: Ladybird Environmental Consulting LLP, Navi Mumbai, Maharashtra
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - To prepare 11th and 12th for a pre-medical entrance exam.
+          - To plan, coordinate nature walks and workshops.
           - To engage the corporate employee for volunteering events like habitat restoration, beach cleanup, lake rejuvenation, wildlife conservation, environmental awareness. Coordinate with site partners and report work executed by them.
           - To prepare study material and conduct online classes (Google Classroom) related to environmental education.
+          - Manage laboratory for environmental audits and sample analysis.
+          - To conduct the research for CSR projects, sourcing information for scientific publications, and prepare project reports.
+          - To supervise various environmental impact assessment and biodiversity projects.
+          - To prepare necessary communication materials for social media (Facebook, Instagram, Twitter & LinkedIn).
+          - To prepare necessary communication materials for social media (Facebook, Instagram, Twitter & LinkedIn).
     - role: Biology Subject Expert
       time: November 2019 - February 2020
       company: Al Hidaya Academy of Competition, Thane, Maharashtra
-    - experience:
-        Teaching 
+      experience: Teaching 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
           - To prepare 11th and 12th for a pre-medical entrance exam
           - Designing a study plan, weekly practice sheets, and test series.
           - Conduct doubt sessions and progress reports.
@@ -103,13 +97,32 @@ experiences:
     - role: Junior Research Biologist
       time: December 2017- November 2019
       company: Sálim Ali Centre for Ornithology and Natural History (SACON), Coimbatore, Tamil Nadu
-    - experience: A project titled Birds Hazards in selected Indian Commercial Airfields (Ahmedabad, Coimbatore, Kannur).
+      experience: A project titled Birds Hazards in selected Indian Commercial Airfields (Ahmedabad, Coimbatore, Kannur).
       details: |
           - Preliminary planning of methodology with computer-based tools (GIS, Arcgis) for efficient data collection.
           - Cataloging bird species of airports and nearby landscapes.
           - Identification of a problematic bird, their flight pattern, congregation site, monitoring their behavioral and foraging activities.
           - To search and geotag artificial bird feeding sites, landfill within 10 km of airport areas.
           - Inventorying and survey of plant species of the airport and categorize them based on a planned methodology.
+          - To advise adequate bird control measures to airport officials for minimizing a bird-aircraft collision.
+          - To provide scientific recommendations to government officials for habitat management and modification of ecological character (water, food resources, vegetation, shelters) at the airport to reduce the activity of birds.
+          - To conduct wildlife management program for airport wildlife control personnel.
+          - To converse with higher-ups, officials and present research findings.
+          - To liaise with the airport officials and other government bodies (BCAS) for research approval.
+          - To draft a report and demonstrate it at a local, official and governmental level.
+    - role: M.Sc Dissertation
+      time: November 2016 - December 2017
+      company: Bombay Natural History Society (BNHS), Mumbai,Maharashtra
+      details: |
+          - Systematic formulation of survey strategy.
+          - Photographic documentation of target species.
+          - Understanding illicit trade patterns and trend.
+          - Socio-economic survey of the people involved in commercial wildlife trades.
+          - To determine the data collection method, analyze samples and materials.
+          - To unearth hidden, secret, and obscure information about illegal species.
+          - To tackle the challenges and practical risks of ﬁeldwork-
+          - To liaise with experts and stakeholders associated with wildlife trade for the latest inputs.
+          - To search any captive breeding programs and collaborate with breeders for sample availability.
 projects:
     title: Projects
     intro: >
