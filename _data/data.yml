@@ -53,13 +53,13 @@ education:
     - degree: MSc in Biodiversity & Wildlife Conservation and Management
       university: B.N.Bandodkar College of Science affiliated to University of Mumbai
       time: 2015 - 2017
-      aggregate: 68%
       details: |
-        Duties & Responsibilities
-        Programs
-          - To plan, coordinate nature walks and workshops
-          - 
-          - Bullet point
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Aggregate: 68%
           - Bullet point
     - degree: BSc in Zoology
       university: Ramniranjan Jhunjhunwala College of Science affiliated to University of Mumbai
@@ -70,7 +70,7 @@ education:
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
-          - Bullet point
+          - Aggregate: 58%
           - Bullet point
 experiences:
     - role: Environmental Scientist
