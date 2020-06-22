@@ -147,8 +147,8 @@ projects:
         link: "#"
         tagline: "Study of freshwater ﬁshes & their commercial exploitation with reference to endemic & threaten species of India."
 
-publication:
-    title: publication
+publications:
+    title: Publications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
@@ -170,7 +170,7 @@ publication:
         conference: "Comm. ACM 4 (1961), 51–55"
         
 certificate course:
-    title: certificate course
+    title: Certificate Course
           - Ocean Challenges and Conservation from National Geographic Society and United for Wildlife.
           - IUCN Red List Assessment from IUCN and Conservating Training.
           - Understanding Illegal Wildlife Trade from National Geographic Society and United for Wildlife.
