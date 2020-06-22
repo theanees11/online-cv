@@ -20,7 +20,7 @@ sidebar:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: ''
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -59,7 +59,7 @@ education:
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
-          - Aggregate: 68%
+          - Aggregate 68%
           - Bullet point
     - degree: BSc in Zoology
       university: Ramniranjan Jhunjhunwala College of Science affiliated to University of Mumbai
@@ -70,7 +70,7 @@ education:
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
-          - Aggregate: 58%
+          - Aggregate 58%
           - Bullet point
 experiences:
     - role: Environmental Scientist
@@ -88,25 +88,28 @@ experiences:
     - role: Biology Subject Expert
       time: November 2019 - February 2020
       company: Al Hidaya Academy of Competition, Thane, Maharashtra
+      experience:
+        Teaching 
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
-          - To prepare 11th and 12th for a pre-medical entrance exam.
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - To prepare 11th and 12th for a pre-medical entrance exam
+          - Designing a study plan, weekly practice sheets, and test series.
+          - Conduct doubt sessions and progress reports.
+          - Career counseling.
+    - role: Junior Research Biologist
+      time: December 2017- November 2019
+      company: Sálim Ali Centre for Ornithology and Natural History (SACON), Coimbatore, Tamil Nadu
+      experience: A project titled Birds Hazards in selected Indian Commercial Airfields (Ahmedabad, Coimbatore, Kannur).
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Preliminary planning of methodology with computer-based tools (GIS, Arcgis) for efficient data collection.
+          - Cataloging bird species of airports and nearby landscapes.
+          - Identification of a problematic bird, their flight pattern, congregation site, monitoring their behavioral and foraging activities.
+          - To search and geotag artificial bird feeding sites, landfill within 10 km of airport areas.
+          - Inventorying and survey of plant species of the airport and categorize them based on a planned methodology.
 projects:
     title: Projects
     intro: >
