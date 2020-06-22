@@ -59,7 +59,7 @@ education:
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
-          - Aggregate 68%
+          - Bullet point
           - Bullet point
     - degree: BSc in Zoology
       university: Ramniranjan Jhunjhunwala College of Science affiliated to University of Mumbai
@@ -70,7 +70,7 @@ education:
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
-          - Aggregate 58%
+          - Bullet point
           - Bullet point
 experiences:
     - role: Environmental Scientist
@@ -88,7 +88,7 @@ experiences:
     - role: Biology Subject Expert
       time: November 2019 - February 2020
       company: Al Hidaya Academy of Competition, Thane, Maharashtra
-      experience:
+    - experience:
         Teaching 
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -103,7 +103,7 @@ experiences:
     - role: Junior Research Biologist
       time: December 2017- November 2019
       company: Sálim Ali Centre for Ornithology and Natural History (SACON), Coimbatore, Tamil Nadu
-      experience: A project titled Birds Hazards in selected Indian Commercial Airfields (Ahmedabad, Coimbatore, Kannur).
+    - experience: A project titled Birds Hazards in selected Indian Commercial Airfields (Ahmedabad, Coimbatore, Kannur).
       details: |
           - Preliminary planning of methodology with computer-based tools (GIS, Arcgis) for efficient data collection.
           - Cataloging bird species of airports and nearby landscapes.
