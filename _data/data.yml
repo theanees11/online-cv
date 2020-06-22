@@ -147,8 +147,8 @@ projects:
         link: "#"
         tagline: "Study of freshwater ﬁshes & their commercial exploitation with reference to endemic & threaten species of India."
 
-publications:
-    title: Publications
+references:
+    title: references
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
