@@ -90,7 +90,7 @@ experiences:
       company: Al Hidaya Academy of Competition, Thane, Maharashtra
       experience: Teaching 
       details: |
-          - To prepare 11th and 12th for a pre-medical entrance exam
+          - To prepare 11th and 12th for a pre-medical entrance exam.
           - Designing a study plan, weekly practice sheets, and test series.
           - Conduct doubt sessions and progress reports.
           - Career counseling.
@@ -126,21 +126,19 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I have worked on multiple important projects throughout my career. What’s crucial for me is to get very clear on the goals right at the beginning and then create a plan. Detailed planning is very important to ensure an important project goes smoothly.
     assignments:
-      - title: Velocity
+      - title: Ladybird Environmental Consulting LLP
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Lake Rejuvenation, Afforestation, and various Marine Conservation Project in Mumbai."
 
-      - title: DevStudio
+      - title: Sálim Ali Centre for Ornithology and Natural History (SACON)
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Birds Hazards in selected Indian Commercial Airfields (Ahmedabad, Coimbatore, Kannur)."
 
-      - title: Tempo
+      - title: Bombay Natural History Society (BNHS)
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Study of freshwater ﬁshes & their commercial exploitation with reference to endemic & threaten species of India."
 
       - title: Atom
         link: "#"
