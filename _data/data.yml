@@ -73,7 +73,7 @@ education:
         pretium quis, sem.
           - aggregate "58%"
           - Bullet point
-experience:
+experiences:
     - role: Environmental Scientist
       time: February 2020- March 2020
       company: Ladybird Environmental Consulting LLP, Navi Mumbai, Maharashtra
@@ -148,8 +148,8 @@ projects:
         link: "#"
         tagline: "Study of freshwater ﬁshes & their commercial exploitation with reference to endemic & threaten species of India."
 
-publications:
-    title: Publications
+publication:
+    title: Publication
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
