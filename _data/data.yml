@@ -226,10 +226,6 @@ skills:
       - name: Ground Truthing
         level: 50%
         
-career-profile:
-    title: Career Profile
-    summary: |        
-        
 references:
       - title: Unmesh G. Katwate
         link: "#"
