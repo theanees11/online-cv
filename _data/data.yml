@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Anees Khan
     tagline: Wildlife Biologist | Ichthyologist
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: khan.anees11@yahoo.com
