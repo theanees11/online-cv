@@ -59,7 +59,7 @@ education:
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
-          - Bullet point
+          - aggregate "68%"
           - Bullet point
     - degree: BSc in Zoology
       university: Ramniranjan Jhunjhunwala College of Science affiliated to University of Mumbai
@@ -70,7 +70,7 @@ education:
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
-          - Bullet point
+          - aggregate "58%"
           - Bullet point
 experiences:
     - role: Environmental Scientist
@@ -123,6 +123,13 @@ experiences:
           - To tackle the challenges and practical risks of ﬁeldwork-
           - To liaise with experts and stakeholders associated with wildlife trade for the latest inputs.
           - To search any captive breeding programs and collaborate with breeders for sample availability.
+    - role: Independent Researcher
+      time: February 2014 - December 2017
+      company: Self Funded
+      details: |
+          - Documentation of species in trade with emphasis on freshwater ﬁshes.
+          - To collect data on ﬂuctuation, trend, pattern, and understand the supply chain involved in species trade.
+          - To investigate and photo document the hideouts from where the trade is being operated and conduct socio-economic survey of breeders, intermediate sellers, and customers.
 projects:
     title: Projects
     intro: >
@@ -139,14 +146,6 @@ projects:
       - title: Bombay Natural History Society (BNHS)
         link: "#"
         tagline: "Study of freshwater ﬁshes & their commercial exploitation with reference to endemic & threaten species of India."
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
@@ -169,6 +168,25 @@ publications:
         link: "#"
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
+        
+certificate course:
+          - Ocean Challenges and Conservation from National Geographic Society and United for Wildlife.
+          - IUCN Red List Assessment from IUCN and Conservating Training.
+          - Understanding Illegal Wildlife Trade from National Geographic Society and United for Wildlife.
+          - Protected Area Network from Convention on Biological Diversity and UNDP.
+          - Conservation Project Planning from National Geographic Society and United for Wildlife.
+          
+activities:
+          - Participated in National Conference on 'Coastal and Estuarine Habitat Restoration' jointly organized by VPM's B. N. Bandodkar College of Science, Thane and Naushad Ali Sarovar Samvardhini (NASS), Mumbai in association with Indian Association of Aquatic Biologists (IAAB), Hyderabad and Society for Environment Education Research and Management (SREERAM), Pune (23rd September 2015).
+          - Participated in International Conference on 'Ecosystem Services of Wetlands Adrabhumi 2016 Organized by VPM's B. N. Bandodkar College of Science, Thane in Collaboration with Mangrove Cell, Mumbai and Salim Ali Centre for Ornithology and Natural History, Coimbatore and Mangrove Society of India, Goa and HOPE nature Trust, Thane (16th and 17th February 2016).
+          - Participated in Workshop on 'Field Techniques in Wildlife Biology' organized by HOPE Nature Trust, Thane (11th & 12th September 2016).
+          - Participated in the 'Zoo-tech' event of the college annual program 'Zoo-Fest' festival held at Ramniranjan Jhunjhunwala College.
+          - Participated in the botanical annual program 'Botanica festival' held at Ramniranjan Jhunjhunwala College.
+          
+accomplishment:
+          - Selected as a research biologist to study bird aircraft collisions at three international airports of India.
+          - Secured 1st position in research during the master's program of the academic year 2015-2017 at the University of Mumbai.
+          - Won the 3rd prize in the project presentation event 'Botanica festival' held at Ramniranjan Jhunjhunwala College.
 
 skills:
     title: Skills &amp; Proficiency
